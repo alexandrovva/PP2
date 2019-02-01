@@ -1,0 +1,6 @@
+/Users/definix/Documents/PP2/Week 1/T2/T2/bin/Debug/T2.exe
+/Users/definix/Documents/PP2/Week 1/T2/T2/bin/Debug/T2.pdb
+/Users/definix/Documents/PP2/Week 1/T2/T2/obj/x86/Debug/T2.csprojAssemblyReference.cache
+/Users/definix/Documents/PP2/Week 1/T2/T2/obj/x86/Debug/T2.csproj.CoreCompileInputs.cache
+/Users/definix/Documents/PP2/Week 1/T2/T2/obj/x86/Debug/T2.exe
+/Users/definix/Documents/PP2/Week 1/T2/T2/obj/x86/Debug/T2.pdb
