@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Task2
 {
@@ -8,19 +9,25 @@ namespace Task2
         public string surname;
         public int year;
 
-        public Student(string name,string surname)
+        public Student(string name, string surname, int year)
         {
             this.name = name;
             this.surname = surname;
+            this.year = year;
+        }
+        public void F()
+        {
+            Console.WriteLine(name+" "+surname+" "+year);
         }
     }
+
+
     class MainClass
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
-            Student st2 = new Student("Anastassiya", "Nikitina");
-            st2.year = 1;
-            Console.WriteLine(st2);
+
         }
     }
 }
+
