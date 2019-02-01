@@ -1,0 +1,6 @@
+/Users/definix/Documents/PP2/Week 1/Task2/Task2/bin/Debug/Task2.exe
+/Users/definix/Documents/PP2/Week 1/Task2/Task2/bin/Debug/Task2.pdb
+/Users/definix/Documents/PP2/Week 1/Task2/Task2/obj/x86/Debug/Task2.csprojAssemblyReference.cache
+/Users/definix/Documents/PP2/Week 1/Task2/Task2/obj/x86/Debug/Task2.csproj.CoreCompileInputs.cache
+/Users/definix/Documents/PP2/Week 1/Task2/Task2/obj/x86/Debug/Task2.exe
+/Users/definix/Documents/PP2/Week 1/Task2/Task2/obj/x86/Debug/Task2.pdb
