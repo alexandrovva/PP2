@@ -7,7 +7,7 @@ namespace Task2
     {
         public static void Main(string[] args)
         {
-            StreamReader sr = new StreamReader("Input.txt");
+            StreamReader sr = new StreamReader("input.txt");
             StreamWriter sw = new StreamWriter("output.txt");
             string[] s = sr.ReadLine().Split();
             int[] a = new int[s.Length];
@@ -19,7 +19,11 @@ namespace Task2
             }
             for (int i = 0; i < s.Length; i++)
             {
-                if (a[i] == 1) continue;
+                if (a[i] == 1)
+                {
+                    continue;
+                }
+
                 for (int j = 2; j < a[i]; j++)
                 {
                     if (a[i] % j == 0 && a[i] != j)
@@ -31,7 +35,7 @@ namespace Task2
                 if (f == true)
                 {
 
-                    sw.WriteLine(a[i]);
+                    sw.Write(a[i]+" ");
                 }
 
             }
