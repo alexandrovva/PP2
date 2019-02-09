@@ -18,7 +18,7 @@ namespace T2
         static void Main(string[] args)
         {
             Student st = new Student(); //конструктор
-            string s1 = "Anastassiya";
+            string s1 = "Anastassiya"; 
             string s2 = "18BD110816";
             string s3 = Console.ReadLine();
             st.name = s1;
