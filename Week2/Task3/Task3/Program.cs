@@ -29,7 +29,7 @@ namespace Task3
 
         public static void Main(string[] args)
         {
-            DirectoryInfo dir = new DirectoryInfo("/Users/definix/Documents/PP2"); //выводим деревообразно все из папки PP2
+            DirectoryInfo dir = new DirectoryInfo("/Users/definix/Documents/PP2"); //все из папки PP2
             F(dir, 0); //передаем направление и 0 отступ для первого вывода
            
         }
